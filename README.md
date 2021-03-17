@@ -1,2 +1,2 @@
-# Apk-Media
+# Collections
 Aplicativo que verifica a média
